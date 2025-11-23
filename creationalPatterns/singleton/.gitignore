@@ -1,0 +1,64 @@
+#############
+# Java
+#############
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#############
+# Maven
+#############
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+#############
+# Gradle
+#############
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+**/out/
+
+#############
+# IntelliJ IDEA
+#############
+.idea/
+*.iml
+*.iws
+*.ipr
+
+#############
+# VS Code
+#############
+.vscode/
+
+#############
+# Logs & Temp
+#############
+*.log
+logs/
+*.tmp
+*.temp
+*.swp
+*.swo
+
+#############
+# OS/Linux
+#############
+*~
